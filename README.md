@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+Virutal Security Operation Center(In Progress)
+
+Goal: Convert my PC into a Type-1 hypervisor that manages all your security lab VMs.
+
 
 
 
