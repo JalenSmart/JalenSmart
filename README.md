@@ -4,7 +4,7 @@
 
 Virutal Security Operation Center(In Progress)
 
-Goal: Convert my PC into a Type-1 hypervisor that manages all your security lab VMs.
+Goal: Convert my PC into a Type-1 hypervisor(ProMox VE) that manages all my security lab VMs.
 
 
 
